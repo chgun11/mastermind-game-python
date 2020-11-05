@@ -1,4 +1,4 @@
-# mastermind_py
+# Mastermind Game in Python
 Mastermind Console Game in Python
 
 ## What is MasterMind?
