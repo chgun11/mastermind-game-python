@@ -18,4 +18,4 @@ Try to guess the secret code
 few turns as possible.
 
 ### Run the Program
-Opent the mastermind.py file in the IDE and run the program.
+Open the mastermind.py file in the Python IDE & run the program.
