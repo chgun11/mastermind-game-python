@@ -16,3 +16,6 @@ which) of the 4 numbers are correct.
 Try to guess the secret code
 (Color Arrangement) in as
 few turns as possible.
+
+### Run the Program
+Opent the mastermind.py file in the IDE and run the program.
